@@ -1,5 +1,7 @@
 # Gentoo Linux Configuration
 This is my Gentoo configuration files for the **tau** server, which have the following hardware:
+*Yeah, I have two RAM memories of different frequencies, due an issue with Amazon which sent erroneous product. Tried refund but RAM was expensive/neccesary that time*.
+
 ```bash
 tau
     description: Desktop Computer
